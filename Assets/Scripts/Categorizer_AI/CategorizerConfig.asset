@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73f7e500b2fcc49419cd48d2ceab5e4d, type: 3}
+  m_Name: CategorizerConfig
+  m_EditorClassIdentifier: 
+  name: Categorizer
+  modelName: gemma
+  contextFilePath: Assets/Scripts/Categorizer_AI/CategorizerContext.txt
+  ollamaUri: http://localhost:11434
