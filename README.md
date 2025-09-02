@@ -5,7 +5,7 @@ Máster en Ingeniería Informática - Universidad Complutense de Madrid <br>
 
 ---
 
-**ClassroomVR** es una simulación educativa en realidad virtual que integra agentes virtuales con modelos de lenguaje (LLMs) y sistemas de voz, con el objetivo de crear entornos inmersivos de interacción alumno-profesor. Este proyecto forma parte del desarrollo del prototipo en el marco de la tesis del Máster, y se ha construido sobre la base del proyecto preexistente **DidascaliaVR**.  
+**ClassroomVR** es una simulación educativa en realidad virtual que integra agentes virtuales con modelos de lenguaje (LLMs) y sistemas de voz, con el objetivo de crear entornos inmersivos de interacción alumno-profesor. Este proyecto forma parte del desarrollo del prototipo en el marco de la tesis del Máster, y se ha construido sobre la base del proyecto preexistente [DidascaliaVR](github.com/arome90/Didascalias).
 
 ---
 
